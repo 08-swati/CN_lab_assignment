@@ -1,0 +1,5 @@
+1001 Sonam CSE GEC_Kishanganj
+1002 Amit ECE GEC_Kishanganj
+1003 Rahul CSE GEC_Kishanganj
+1004 Priya EEE GEC_Kishanganj
+1005 Neha ME GEC_Kishanganj
